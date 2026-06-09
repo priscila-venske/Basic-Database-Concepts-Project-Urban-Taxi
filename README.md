@@ -94,3 +94,14 @@ Perform investigation and validation activities using command-line tools and SQL
 ## Author
  
 Project developed as part of the **QA Engineering Bootcamp** at TripleTen.
+
+---
+
+## Assignment Approved
+[Project Approval](https://drive.google.com/file/d/1PAqDzLAZ2CIApes2Fe74nYSPg66SoKnH/view?usp=drive_link)
+
+---
+
+## 📄 License
+ 
+This repository is for educational use. The data and screenshots belong to the course's testing environment.
