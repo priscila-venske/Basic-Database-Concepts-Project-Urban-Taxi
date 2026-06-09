@@ -65,6 +65,7 @@ Perform investigation and validation activities using command-line tools and SQL
  
 
 | ✔️ [SQL Queries](https://docs.google.com/document/d/1jL2rg9El9Mb39PXhJNc3n4QZGG394ISmnonGnEi9WnI/edit?usp=sharing) |
+
 | ✔️ [Log Analysis Reports](https://docs.google.com/document/d/17wSrRZYGqniK-04yX75tCs1mQtS6bfEEFRh9s_k9gG0/edit?usp=sharing) |
  
 ---
